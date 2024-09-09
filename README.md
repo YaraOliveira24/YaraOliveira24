@@ -1,6 +1,6 @@
 ### Bem vindos ao meu perfil 💟
 
-Meu nome é Yara de Oliveira Bstos
+Meu nome é Yara de Oliveira Bastos
 
 -Estou estudando na Alura
 -Estou me desenvolvendo na linguagem JavaScript
