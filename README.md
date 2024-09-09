@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem vindos ao meu perfil 💟
 
-<!--
-**YaraOliveira24/YaraOliveira24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Yara de Oliveira Bstos
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+
+oliveirayara44@gmail.com
+
+_oliveira.y_
+ 
+  ![](https://tenor.com/pt-BR/view/silly-horse-silly-horse-bleh-tongue-gif-14279452348356133629)
