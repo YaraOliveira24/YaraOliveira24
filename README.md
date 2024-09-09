@@ -10,6 +10,6 @@ Meu nome é Yara de Oliveira Bastos
 
 oliveirayara44@gmail.com
 
-_oliveira.y_
+_ oliveira.y _
  
   ![](https://tenor.com/pt-BR/view/silly-horse-silly-horse-bleh-tongue-gif-14279452348356133629)
