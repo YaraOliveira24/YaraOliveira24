@@ -2,9 +2,9 @@
 
 Meu nome é Yara de Oliveira Bastos
 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento
 
 ## Você pode entrar em contato comigo 📫
 
